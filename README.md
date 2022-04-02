@@ -11,6 +11,6 @@
 
 <br />
 
-<h3>Tarot</h3>
+<h3>Animation Example</h3>
 <img src="./.github/assets/Tarot.gif" width="300" />
 
