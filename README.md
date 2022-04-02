@@ -1,5 +1,4 @@
-<h1>React Native Animations</h1>
-<span>A set of delightful animations</span>
+<h1>Tarot Reanimated</h1>
 <br/>
 <br/>
 <span>Made using:</span>
@@ -11,19 +10,7 @@
 <br />
 
 <br />
-<h2>Preview: </h2>
-<br />
-<h3>Philz Coffee Clone</h3>
-<img src="./.github/assets/philzcoffee.gif" width="300" />
 
-<br />
-<h3>Chrome Tabs Clone</h3>
-<img src="./.github/assets/chrome.gif" width="300" />
+<h3>Tarot</h3>
+<img src="./.github/assets/Tarot.gif" width="300" />
 
-<br />
-<h3>Chanel Slider</h3>
-<img src="./.github/assets/chanel.gif" width="300" />
-
-<br />
-<h3>Apple Watch Breathe Animation </h3>
-<img src="./.github/assets/breathe.gif" width="300" />
