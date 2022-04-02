@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tarot-reanimated",
+    "slug": "tarot-reanimated",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
